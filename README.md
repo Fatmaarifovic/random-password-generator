@@ -24,14 +24,15 @@ Run`main.exe`
 
 Followinf featrue are used to enhance password security
 
-    - [x] Uppercase
-    - [x] Lowercase
-    - [x] Numbers
-    - [x] Symbols
+- [x] Uppercase
+- [x] Lowercase
+- [x] Numbers
+- [x] Symbols
 
 ### TODO
-    -[ ] Require at least 1 symbol
-    -[ ] Require at least 1 number
+
+- [ ] Require at least 1 symbol
+- [ ] Require at least 1 number
 
 
 ## Demo 
@@ -46,10 +47,11 @@ YOTUBE LINK
 Contribute to Github[github repository](https://www.github.com/janajolovic)
 
 ## Technologies
--Python
--Pysimplegui - (*for gui*)
--notify-py - (*for notifications*)
--pyperclip - (*for clipboard managment*)
+
+- Python
+- Pysimplegui - (*for gui*)
+- notify-py - (*for notifications*)
+- pyperclip - (*for clipboard managment*)
 
 
 ## Tests
@@ -58,4 +60,5 @@ Windows
 `python -m unittests.py`
 
 Linux
+
 `python3 -m unittests.py `
